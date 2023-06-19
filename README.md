@@ -1,5 +1,5 @@
 # Programación Blockchain con Solidity
-Solidity ETH KIPU Course taken at UCH Mendoza
+Solidity ETH KIPU Course held at UCH Mendoza
 
 ![Solidity](https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png)
 
