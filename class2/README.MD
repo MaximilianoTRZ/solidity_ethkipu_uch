@@ -1,9 +1,13 @@
+# Clase 2 Solidity
+
+Se empezó con un contrato sencillo llamado Register al que se le va añadiendo cada vez más funcionalidad.
+
 Universidad Champagnat
 
 https://pad.riseup.net/p/ethkipu-uch-02
 
 Programación Blockchain con Solidity
-Clase 1
+Clase 2
 
 Discord ETH KIPU
 https://discord.gg/UfUEHeuXu3
