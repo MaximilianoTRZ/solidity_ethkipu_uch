@@ -1,15 +1,8 @@
 # Programación Blockchain con Solidity
+
 Solidity ETH KIPU Course held at UCH Mendoza
 
 ![Solidity](https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png)
-
-## Class 1 (01/06/2023)
-- https://pad.riseup.net/p/ethkipu-uch-01 
-
-## Class 2 (15/06/2023)
-- https://pad.riseup.net/p/ethkipu-uch-02 
-
-
 
 ## Faucet
 
@@ -23,7 +16,6 @@ Solidity ETH KIPU Course held at UCH Mendoza
 
 - https://www.infura.io/faucet/sepolia
 
-
-
 ### License
+
 - https://spdx.org/licenses/
